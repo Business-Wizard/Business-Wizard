@@ -4,7 +4,7 @@
 
 [![Business-Wizard's github stats](https://github-readme-stats.vercel.app/api?username=Business-Wizard&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
 
-![1](https://github-readme-stats.vercel.app/api/top-langs/?username=Business-Wizard&theme=blue-green)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Business-Wizard&theme=blue-green&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
